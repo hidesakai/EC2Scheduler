@@ -1,0 +1,8 @@
+.svn
+build/
+dist/
+env/
+*.pyc
+*.pyo
+build/*
+dist/*
